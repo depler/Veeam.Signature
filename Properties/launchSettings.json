@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Signature": {
+      "commandName": "Project",
+      "commandLineArgs": "c:\\Data\\Downloads\\data.bin 1000000"
+    }
+  }
+}
